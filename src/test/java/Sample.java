@@ -10,6 +10,8 @@ public class Sample
 	}
 	private void sample3() {
 		System.out.println("sample3");
+		
+		
 		}
 	private void sample4() {
 		System.out.println("sample4");
@@ -17,6 +19,13 @@ public class Sample
 	}
 	private void sample5() {
 		System.out.println("sample5");
+	}
+	private void Sample5() {
+		System.out.println("Sample5");
+	}
+	private void Sample6() {
+		System.out.println("sample6");
+
 
 	}
 	public static void main(String[] args) {
