@@ -10,7 +10,16 @@ public class Sample
 	}
 	private void sample3() {
 		System.out.println("sample3");
+		
+		
 		}
+	
+	private void Sample5() {
+		System.out.println("Sample5");
+	}
+	private void Sample6() {
+		System.out.println("sample6");
+	}
 	public static void main(String[] args) {
 		Sample s= new Sample();
 		s.sample1();
